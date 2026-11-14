@@ -1,0 +1,5 @@
+models/
+__pycache__/
+*.pyc
+.DS_Store
+results/gsm8k_test.jsonl
